@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Venkata Abhilaash</h1>
 <h3 align="center">Data Engineer | Data Analyst</h3>
-![image](https://github.com/user-attachments/assets/ab1ea4ef-1cb3-4f40-befd-f409aa1df456)
+<img align="centre" alt="Coding"  width ="400" src="https://github.com/user-attachments/assets/ab1ea4ef-1cb3-4f40-befd-f409aa1df456">
 
 - 🔭 I’m currently working on [Databricks_Practice](https://github.com/VenkataAbhilaash/Databricks_Practice)
 
